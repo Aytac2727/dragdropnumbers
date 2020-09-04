@@ -1,0 +1,21 @@
+#Drag, #Drop {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  padding: 50px;
+  border: 1px solid gray;
+}
+
+.drag-item {
+  width: 13.5%;
+  height: 100px;
+  margin: 15px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 1.2em;
+  font-weight: 700;
+  border: 1px solid gray;
+}
+/*# sourceMappingURL=style.css.map */
